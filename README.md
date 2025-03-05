@@ -3,8 +3,8 @@
 ## 📝 Project Overview
 This **Super Store Sales Analysis Dashboard** is built using **Tableau** to provide key insights into sales, profits, and customer segments. The dashboard helps in analyzing trends, identifying profitable product categories, and understanding regional sales performance.
 
-## 📷 Dashboard Preview##   
-Tableau Dashboard
+## 📷 Dashboard Preview 
+## Tableau Dashboard  
 Check out the interactive dashboard here: [Tableau Public Link](https://public.tableau.com/app/profile/karnan.k/viz/Super_Store_17411841294250/Dashboard1)
 
 ![Super Store Dashboard](Super_Store_Dashboard.png)
